@@ -52,7 +52,7 @@ Meu objetivo é transformar o conhecimento adquirido nos estudos em **projetos r
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jluccags&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTenchini&theme=tokyonight"
   />
 </p>
 
