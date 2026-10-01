@@ -94,5 +94,9 @@ Continuar evoluindo como desenvolvedor, construir projetos cada vez mais complet
 
 ## 📫 Contato
 
+## 📫 Contato
+
 <p align="center">
-  <a href="https://github.com/RafaelTenchini"><img src="https://img.shields.io/badge/GitHub-RafaelTenchini-1a1b27?style=for-the-badge&logo=
+  <a href="https://www.linkedin.com/in/rafael-tenchini-0a7b26344/"><img src="https://img.shields.io/badge/LinkedIn-Rafael%20Tenchini-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
+  <a href="https://github.com/RafaelTenchini"><img src="https://img.shields.io/badge/GitHub-RafaelTenchini-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
