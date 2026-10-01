@@ -5,9 +5,7 @@
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-  <a href="https://github.com/RafaelTenchini">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+JavaScript+%7C+C%23+%7C+Web+%7C+SQL;Aprendendo%2C+criando+e+evoluindo+todos+os+dias" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+JavaScript+%7C+C%23+%7C+Web+%7C+SQL;Aprendendo%2C+criando+e+evoluindo+todos+os+dias" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -62,7 +60,8 @@ Meu objetivo é transformar o conhecimento dos estudos em **projetos reais e exp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelTenchini&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true" alt="Activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTenchini&theme=tokyonight" width="49%" alt="Repos por linguagem"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTenchini&theme=tokyonight" width="49%" alt="Linguagens mais usadas"/>
 </p>
 
 ---
@@ -96,18 +95,4 @@ Continuar evoluindo como desenvolvedor, construir projetos cada vez mais complet
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://github.com/RafaelTenchini"><img src="https://img.shields.io/badge/GitHub-RafaelTenchini-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-Enviar-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7"/></a>
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaelTenchini&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Views"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=9AA5CE&center=true&vCenter=true&width=420&height=30&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Tagline"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer" alt="Footer"/>
+  <a href="https://github.com/RafaelTenchini"><img src="https://img.shields.io/badge/GitHub-RafaelTenchini-1a1b27?style=for-the-badge&logo=
