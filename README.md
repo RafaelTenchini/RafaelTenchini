@@ -1,68 +1,76 @@
-<h1 align="center">👋 Olá, eu sou o Rafael!</h1>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=230&section=header&text=Rafael%20Tenchini&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descSize=18&descColor=9aa5ce&descAlignY=58" alt="Header"/>
+</p>
+
+<!-- ===================== TYPING ===================== -->
+<p align="center">
+  <a href="https://github.com/RafaelTenchini">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+JavaScript+%7C+C%23+%7C+Web+%7C+SQL;Aprendendo%2C+criando+e+evoluindo+todos+os+dias" alt="Typing SVG"/>
+  </a>
+</p>
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIVJ
-  <br>
-  💻 Desenvolvedor em formação
-  <br>
-  🚀 Aprendendo, criando e evoluindo todos os dias
+  <img src="https://img.shields.io/badge/FIVJ-ADS-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="FIVJ"/>
+  <img src="https://img.shields.io/badge/Foco-Back--end%20%26%20Web-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Foco"/>
+  <img src="https://img.shields.io/badge/Status-Em%20evolu%C3%A7%C3%A3o-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="Status"/>
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente estou construindo minha base como desenvolvedor.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIVJ** e estou construindo minha base como desenvolvedor.
 
 Tenho estudado principalmente **Java, Programação Orientada a Objetos, JavaScript, C#, desenvolvimento web e bancos de dados**.
 
-Meu objetivo é transformar o conhecimento adquirido nos estudos em **projetos reais e experiências práticas**.
+Meu objetivo é transformar o conhecimento dos estudos em **projetos reais e experiência prática**.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,cs,html,css,mysql,git,github&theme=dark" alt="Skills"/>
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-* ☕ Java e Programação Orientada a Objetos
-* 🟨 JavaScript
-* 🔷 C#
-* 🌐 HTML5 & CSS3
-* 🗄️ MySQL
-* 🔧 Git & GitHub
-* 🧠 Estruturas de Dados
-* 💡 Lógica de Programação
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20%26%20POO-1a1b27?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27&color=f89820"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1a1b27&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/C%23-1a1b27?style=flat-square&logo=csharp&logoColor=white&labelColor=1a1b27&color=9b4f96"/>
+  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-1a1b27?style=flat-square&logo=html5&logoColor=E34F26&labelColor=1a1b27&color=E34F26"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27&color=4479A1"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-1a1b27?style=flat-square&logo=github&logoColor=white&labelColor=1a1b27&color=7aa2f7"/>
+  <img src="https://img.shields.io/badge/Estruturas%20de%20Dados-1a1b27?style=flat-square&labelColor=1a1b27&color=bb9af7"/>
+  <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-1a1b27?style=flat-square&labelColor=1a1b27&color=9ece6a"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTenchini&theme=tokyonight"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTenchini&theme=tokyonight" alt="Profile details"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RafaelTenchini&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelTenchini&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true" alt="Activity graph"/>
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RafaelTenchini&theme=tokyonight&hide_border=false"/>
+  <img src="https://raw.githubusercontent.com/RafaelTenchini/RafaelTenchini/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -73,40 +81,33 @@ Meu objetivo é transformar o conhecimento adquirido nos estudos em **projetos r
   <i>Confira meus repositórios para acompanhar minha evolução como desenvolvedor.</i>
 </p>
 
-### 🎓 Projetos acadêmicos
+**🎓 Projetos acadêmicos** — desenvolvidos na graduação, aplicando programação, orientação a objetos, estruturas de dados e banco de dados.
 
-Projetos desenvolvidos durante minha graduação, aplicando conceitos de programação, orientação a objetos, estruturas de dados e banco de dados.
-
-### 💻 Projetos pessoais
-
-Aplicações e experimentos desenvolvidos para colocar em prática os conhecimentos adquiridos nos estudos.
+**💻 Projetos pessoais** — aplicações e experimentos para colocar em prática o que venho estudando.
 
 ---
 
 ## 🎯 Objetivo
 
-Continuar evoluindo como desenvolvedor, desenvolver projetos cada vez mais completos e transformar conhecimento em experiência prática.
+Continuar evoluindo como desenvolvedor, construir projetos cada vez mais completos e transformar conhecimento em experiência prática.
 
 ---
 
-<h3 align="center">💻 Code • Learn • Build • Repeat</h3>
+## 📫 Contato
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaelTenchini&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <a href="https://github.com/RafaelTenchini"><img src="https://img.shields.io/badge/GitHub-RafaelTenchini-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
+  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-Enviar-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7"/></a>
 </p>
-## Hi there 👋
 
-<!--
-**RafaelTenchini/RafaelTenchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RafaelTenchini&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Views"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=9AA5CE&center=true&vCenter=true&width=420&height=30&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Tagline"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer" alt="Footer"/>
